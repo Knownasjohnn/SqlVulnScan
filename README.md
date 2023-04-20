@@ -17,4 +17,4 @@ A simple sqli vulnerability scanner written in python
 
 #usage
 
-~python3 SqlVulnScan.py https://www.target.com/products.php?id=
+~python3 SqlVulnScan.py https://www.target.com/products.php?id=1
