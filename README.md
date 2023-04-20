@@ -9,4 +9,12 @@ A simple sqli vulnerability scanner written in python
 
 ~sudo apt install git
 
-~
+~git clone https://github.com/Knownasjohnn/SqlVulnScan 
+
+~cd SqlVulnScan
+
+~python3 SqlVulnScan.py
+
+#usage
+
+~python3 SqlVulnScan.py https://www.target.com/products.php?id=
